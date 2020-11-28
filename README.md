@@ -26,9 +26,7 @@ I am Tupu AKA Tupu4545, I am a javascript developer. I also own a cool Discord S
 # 🛠My Tools and Languages
 <br />
 <code><img height="20" src="https://cdn.discordapp.com/attachments/765049600817233931/781425295622012968/visual-studio-code.png"></code>
-<code><img height="20" src="https://png2.cleanpng.com/sh/40b6c61a309f25702ad8f4eb168148db/L0KzQYm3VMExN6NofZH0aYP2gLBuTfF1d54ye9H2cIX3dcO0ifNwdqQyjNdDdD3odLr7jCIubZ1qeAZ7b36wfbLqjCMub5p5gOdrLUXkc7Tog8JkPWNrfagCLka6QYeAUcM5OWY3S6UBMki5QIS7TwBvbz==/kisspng-atom-computer-icons-text-editor-electron-macos-github-5accac2c52fe67.67167138152336286034.png"></code>
 <code><img height="20" src="https://cdn.discordapp.com/attachments/765049600817233931/781426103742234634/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <br />
 
