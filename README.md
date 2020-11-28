@@ -35,5 +35,5 @@ I am Tupu AKA Tupu4545, I am a javascript developer. I also own a cool Discord S
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <br />
 
 # ✨Stats
-![Tupu4545's github stats](https://github-readme-stats.vercel.app/api?username=BruceMacGary&count_private=true&theme=great-gatsby)<br>
+![Tupu4545's github stats](https://github-readme-stats.vercel.app/api?username=Tupu4545&count_private=true&theme=great-gatsby)<br>
 
