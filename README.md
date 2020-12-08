@@ -1,11 +1,11 @@
-# ✌Yo! Wassup!
+# ✌Yo! Wassup! // nothing 
 
-I am Tupu AKA Tupu4545, I am a javascript developer. I also own a cool Discord Server
+I am Tupu AKA Tupu4545, I am a javascript developer. I also own a cool Discord Server // ok so what do i do ?
 
-- ✍ Currently Working on [MoonBot](https://discord.com/oauth2/authorize?client_id=775998744562630657&permissions=8&scope=bot).
+- ✍ Currently Working on [MoonBot](https://discord.com/oauth2/authorize?client_id=775998744562630657&permissions=8&scope=bot). // make a repo of the source code
 - 🧠 My other project [LuckyOP](https://discord.com/oauth2/authorize?client_id=769250175855755295&permissions=8&scope=bot)
 - 💬 Ask me about anything [here](https://github.com/Tupu4545/Tupu4545/issues).
-- 🚂 Join my discord server [here](https://discord.gg/5NCV9Qpzhy)
+- 🚂 Join my discord server [here](https://discord.gg/5NCV9Qpzhy) // it is closed
 # 📱My Socials
 
 <a href="https://discord.gg/5NCV9Qpzhy">
